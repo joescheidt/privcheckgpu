@@ -1,3 +1,5 @@
+/*  Copyright (c) 2015 Ryan Castellucci, All Rights Reserved */
+
 #ifndef _BLOOM_H
 #define _BLOOM_H
 /* bloom filter */
